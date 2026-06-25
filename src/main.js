@@ -1,5 +1,7 @@
 import { inject } from '@vercel/analytics';
+import { injectSpeedInsights } from '@vercel/speed-insights';
 inject();
+injectSpeedInsights();
 
 const header = document.getElementById('header');
 const mobileBtn = document.querySelector('.mobile-menu-btn');
