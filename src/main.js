@@ -1,3 +1,5 @@
+import { inject } from '@vercel/analytics';
+inject();
 
 const header = document.getElementById('header');
 const mobileBtn = document.querySelector('.mobile-menu-btn');
