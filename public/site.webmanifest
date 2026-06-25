@@ -1,0 +1,13 @@
+{
+  "name": "Unika Especialidades Odontológicas",
+  "short_name": "Unika",
+  "description": "Clínica odontológica em Uberaba/MG. A arte de fazer sorrir.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF6EE",
+  "theme_color": "#560325",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

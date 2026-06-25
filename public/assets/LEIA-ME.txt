@@ -1,0 +1,7 @@
+Coloque aqui os arquivos de imagem do site:
+- logo-unika.png   (logo principal - usada no header, hero e rodapé)
+- hero.jpg         (opcional: foto para o hero)
+- clinica.jpg      (opcional: foto da clínica/equipe)
+- og-unika.jpg     (opcional: 1200x630 para compartilhamento em redes)
+
+Eles ficam acessíveis no site como /assets/nome-do-arquivo
